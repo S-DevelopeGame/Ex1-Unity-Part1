@@ -14,4 +14,6 @@
 
 ![game-part11](https://user-images.githubusercontent.com/58264273/139944023-4f871a5b-4320-4965-baba-fd1a483f3581.png)
 
+  
+קישור למשחק: https://snir1551.itch.io/thealienwithbigheart
 </div>
