@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/TheAlienWithBigHeart.unity
+    guid: 11404a0f54bde4341b740e29408d3f39
   m_configObjects: {}
